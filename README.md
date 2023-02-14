@@ -24,6 +24,9 @@ O gif abaixo mostra a página sendo recarregada manualmente diversas vezes. **AT
 
 ![Referência animada do resultado esperado](Get-it.gif)
 
+**Versão atingida:**
+![Resultado final](desafioCssPrint.png)
+
 ## Instruções
 
 Esta atividade deve ser realizada em duplas.
